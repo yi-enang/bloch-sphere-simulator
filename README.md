@@ -1,6 +1,9 @@
 # Bloch Sphere Qubit Simulator
 
 An interactive browser-based Bloch sphere simulator for visualising how single-qubit gates change a qubit state.
+## Live Demo
+
+https://yi-enang.github.io/bloch-sphere-simulator/
 
 ## Features
 
